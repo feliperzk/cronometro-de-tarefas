@@ -1,3 +1,8 @@
+# Cronometro de tarefas
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d44400d6-0e5c-4a84-970f-85745ff3e35a/deploy-status)](https://app.netlify.com/sites/cronometrodetarefas/deploys)
+
+https://cronometrodetarefas.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
